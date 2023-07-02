@@ -28,7 +28,7 @@ columns: 4
 max_height: 400
 
 # Handle
-instagram: andy.fuji
+instagram: ritter.val
 
 ######################
 # END OF CONFIG CODE #
@@ -45,7 +45,7 @@ description: Photography Portfolio
 author: Ritter Amsbaugh
 
 # Your email if you want it to be linked on the contact page
-author_email: andzhng@gmail.com
+author_email: ritteramsbaugh@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1

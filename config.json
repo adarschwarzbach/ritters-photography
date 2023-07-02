@@ -1,44 +1,12 @@
 {
   "Big Sur": [
     {
-      "width": -1,
-      "height": -1,
-      "path": "./photos/Big Sur/DSCF4282.jpg",
-      "compressed_path": "./photos/Big Sur/DSCF4282.min.jpg",
+      "width": 1994,
+      "height": 1314,
+      "path": "./photos/Big Sur/test.jpg",
+      "compressed_path": "./photos/Big Sur/test.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Big Sur/DSCF4282.placeholder.jpg"
-    },
-    {
-      "width": -1,
-      "height": -1,
-      "path": "./photos/Big Sur/IMG_1914.jpg",
-      "compressed_path": "./photos/Big Sur/IMG_1914.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Big Sur/IMG_1914.placeholder.jpg"
-    },
-    {
-      "width": -1,
-      "height": -1,
-      "path": "./photos/Big Sur/IMG_1903.jpg",
-      "compressed_path": "./photos/Big Sur/IMG_1903.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Big Sur/IMG_1903.placeholder.jpg"
-    },
-    {
-      "width": -1,
-      "height": -1,
-      "path": "./photos/Big Sur/DSCF4279.jpg",
-      "compressed_path": "./photos/Big Sur/DSCF4279.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Big Sur/DSCF4279.placeholder.jpg"
-    },
-    {
-      "width": -1,
-      "height": -1,
-      "path": "./photos/Big Sur/IMG_1919.jpg",
-      "compressed_path": "./photos/Big Sur/IMG_1919.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Big Sur/IMG_1919.placeholder.jpg"
+      "placeholder_path": "./photos/Big Sur/test.placeholder.jpg"
     }
   ]
 }

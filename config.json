@@ -7,6 +7,22 @@
       "compressed_path": "./photos/Big Sur/test.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Big Sur/test.placeholder.jpg"
+    },
+    {
+      "width": 2208,
+      "height": 1468,
+      "path": "./photos/Big Sur/2.jpg",
+      "compressed_path": "./photos/Big Sur/2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Big Sur/2.placeholder.jpg"
+    },
+    {
+      "width": 2180,
+      "height": 1442,
+      "path": "./photos/Big Sur/3.jpg",
+      "compressed_path": "./photos/Big Sur/3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Big Sur/3.placeholder.jpg"
     }
   ]
 }
